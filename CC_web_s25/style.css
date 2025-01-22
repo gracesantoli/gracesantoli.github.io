@@ -5,7 +5,10 @@ body{
 #pug{
   postion:relative;
   left:100px;
-  {
+}
+
 p{
-  border:2px solid Violet;
+  border:2px 
+  border-style: solid;
+  border-color: violet;
 }
